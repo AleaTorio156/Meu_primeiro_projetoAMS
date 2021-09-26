@@ -1,0 +1,16 @@
+C:\projetos\ams\1ano\Semestre2\EstruturaRepeticao\Array\ArrayColetion\bin\Debug\net5.0\ArrayColetion.exe
+C:\projetos\ams\1ano\Semestre2\EstruturaRepeticao\Array\ArrayColetion\bin\Debug\net5.0\ArrayColetion.deps.json
+C:\projetos\ams\1ano\Semestre2\EstruturaRepeticao\Array\ArrayColetion\bin\Debug\net5.0\ArrayColetion.runtimeconfig.json
+C:\projetos\ams\1ano\Semestre2\EstruturaRepeticao\Array\ArrayColetion\bin\Debug\net5.0\ArrayColetion.runtimeconfig.dev.json
+C:\projetos\ams\1ano\Semestre2\EstruturaRepeticao\Array\ArrayColetion\bin\Debug\net5.0\ArrayColetion.dll
+C:\projetos\ams\1ano\Semestre2\EstruturaRepeticao\Array\ArrayColetion\bin\Debug\net5.0\ref\ArrayColetion.dll
+C:\projetos\ams\1ano\Semestre2\EstruturaRepeticao\Array\ArrayColetion\bin\Debug\net5.0\ArrayColetion.pdb
+C:\projetos\ams\1ano\Semestre2\EstruturaRepeticao\Array\ArrayColetion\obj\Debug\net5.0\ArrayColetion.csprojAssemblyReference.cache
+C:\projetos\ams\1ano\Semestre2\EstruturaRepeticao\Array\ArrayColetion\obj\Debug\net5.0\ArrayColetion.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\ams\1ano\Semestre2\EstruturaRepeticao\Array\ArrayColetion\obj\Debug\net5.0\ArrayColetion.AssemblyInfoInputs.cache
+C:\projetos\ams\1ano\Semestre2\EstruturaRepeticao\Array\ArrayColetion\obj\Debug\net5.0\ArrayColetion.AssemblyInfo.cs
+C:\projetos\ams\1ano\Semestre2\EstruturaRepeticao\Array\ArrayColetion\obj\Debug\net5.0\ArrayColetion.csproj.CoreCompileInputs.cache
+C:\projetos\ams\1ano\Semestre2\EstruturaRepeticao\Array\ArrayColetion\obj\Debug\net5.0\ArrayColetion.dll
+C:\projetos\ams\1ano\Semestre2\EstruturaRepeticao\Array\ArrayColetion\obj\Debug\net5.0\ref\ArrayColetion.dll
+C:\projetos\ams\1ano\Semestre2\EstruturaRepeticao\Array\ArrayColetion\obj\Debug\net5.0\ArrayColetion.pdb
+C:\projetos\ams\1ano\Semestre2\EstruturaRepeticao\Array\ArrayColetion\obj\Debug\net5.0\ArrayColetion.genruntimeconfig.cache
