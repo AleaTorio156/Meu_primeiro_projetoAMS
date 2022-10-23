@@ -6,13 +6,14 @@ namespace ArrayColetion
     {
         static void Main(string[] args)
         {
-               string[] alunosams= new string[5]{
+               string[] alunosams= new string[6]{
                
                "Dani",
                "Maju",
                "Bruno",
                "Ramon",
-               "Sofi"
+               "Sofi",
+               "Victor'
             };
            Console.WriteLine(alunosams[2]);
 
